@@ -1,2 +1,2 @@
 # soltovar.github.io
-My website
+Exploring GitHub Pages
